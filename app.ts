@@ -1,0 +1,1 @@
+console.log("Procesamiento de imagenes");
